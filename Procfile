@@ -1,1 +1,1 @@
-ant server
+web: ant start
